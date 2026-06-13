@@ -9,7 +9,7 @@ Here are ready-to-use templates for sharing AuraTranslate on different platforms
 **Recommended Subreddits**: `r/productivity`, `r/opensource`, `r/selfhosted`, `r/electronjs`
 
 **Post Title**:
-> Show r/productivity: AuraTranslate – A sleek, command-palette style desktop translator that stays hidden until you need it
+> Aura Translate - A sleek, desktop translator that stays hidden until you need it
 
 **Post Body**:
 ```markdown
