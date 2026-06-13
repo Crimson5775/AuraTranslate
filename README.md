@@ -1,5 +1,7 @@
 # AuraTranslate
 
+![AuraTranslate Hero Banner](src/assets/hero.png)
+
 A sleek, premium command-palette style desktop translator built with Electron, React, and Vite. Designed for speed, convenience, and customizability.
 
 ## Features
